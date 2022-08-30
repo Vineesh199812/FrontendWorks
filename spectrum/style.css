@@ -1,0 +1,22 @@
+.col{
+    width: 200px;
+    height: 350px;
+    border: 1px solid black;
+    float: left;
+}
+.col-1{
+    background-color: aqua;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.col-2{
+    background-color: royalblue;
+    margin-right: 20px;
+    text-align: center;
+}
+.col-3{
+    background-color: brown;
+    margin-right: 20px;
+    text-align: center;
+}

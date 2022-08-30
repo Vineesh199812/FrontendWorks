@@ -1,0 +1,23 @@
+.row{
+    width: 70%;
+    border: 1px solid black;
+    /* display: flex; */
+    margin: auto;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* grid-row-gap: 20px; */
+    /* grid-column-gap: 20px; */
+    grid-gap: 20px;
+}
+header{
+    background-color: rgb(19, 216, 150);
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding: 20px 0 ;
+    color: aliceblue;
+    margin-bottom: 20px;
+    color: black;
+}

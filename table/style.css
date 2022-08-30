@@ -1,0 +1,10 @@
+td{
+    height: 200px;
+    width: 150px;
+}
+td:nth-child(1){
+    background-color: aqua;
+}
+td:nth-child(2){
+    background-color: brown;
+}

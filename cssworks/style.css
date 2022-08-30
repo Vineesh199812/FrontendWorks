@@ -1,0 +1,18 @@
+/* tagName, id, clasName{
+    property:value;
+    property:value2
+} */
+
+h1{
+    color:aquamarine;
+}
+
+body{
+    background-color: rgb(136, 114, 86);
+}
+#id-hone{
+    color: black;
+}
+.item{
+    color: brown;
+}
